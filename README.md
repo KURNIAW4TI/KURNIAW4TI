@@ -19,3 +19,4 @@ Here are some ideas to get you started:
 
 ![STK-20210129-WA0044](https://user-images.githubusercontent.com/78569593/108427682-22c26180-7270-11eb-8c88-43b3c94cfc9c.JPG)
 
+![template_s](https://github.com/KURNIAW4TI/KURNIAW4TI/blob/master/img/wallpaperbetter_(1).jpg)
