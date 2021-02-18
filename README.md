@@ -1,4 +1,4 @@
-### Hi there 👋
+### ("Love you") 👋
 
 <!--
 **KURNIAW4TI/KURNIAW4TI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+![STK-20210129-WA0044](https://user-images.githubusercontent.com/78569593/108427682-22c26180-7270-11eb-8c88-43b3c94cfc9c.JPG)
+
