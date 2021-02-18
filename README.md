@@ -21,8 +21,6 @@ Here are some ideas to get you started:
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=storiku&layout=compact" alt="Top language">
 
-<a href="https://github.com/KURNIAW4TI/sks-pro"><img title="SKS-PRO" src="https://github-readme-stats.vercel.app/api/pin/?username=KURNIAW4TI&repo=SKS-PRO&theme=vision-friendly-dark"></a>
-<p align="center">
 <a href="https://www.facebook.com/munir.amkay"><img src="https://image.flaticon.com/icons/svg/174/174848.svg" alt="alt text" width="20" height="20"></a>
 
 &nbsp;&nbsp;     &nbsp;&nbsp;    &nbsp;&nbsp;   &nbsp;&nbsp;   &nbsp;&nbsp;
