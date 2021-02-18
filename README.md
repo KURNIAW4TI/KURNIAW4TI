@@ -19,4 +19,7 @@ Here are some ideas to get you started:
 
 ![STK-20210129-WA0044](https://user-images.githubusercontent.com/78569593/108427682-22c26180-7270-11eb-8c88-43b3c94cfc9c.JPG)
 
-![template_s](https://github.com/KURNIAW4TI/KURNIAW4TI/blob/master/img/wallpaperbetter_(1).jpg)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=storiku&layout=compact" alt="Top language">
+
+<img src="https://github.com/KURNIAW4TI/KURNIAW4TI/blob/master/img/20200909_084956.jpg" width="120" height="120" align="left">
+<center>
